@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Namae101 👋
 
-<!--
-**namae101/namae101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest software development. I enjoy learning new technologies and continuously improving my skills. 
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** React, 
+- **Tools:** Git, Docker
+- **Databases:** MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get In Touch
+- **Email:** [me@narong.dev](mailto:me@narong.dev)
+- **Website:** [Link](https://narong.dev)
+
+## GitHub Stats
+![Namae101's GitHub stats](https://github-readme-stats.vercel.app/api?username=namae101&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namae101&layout=compact&theme=radical)
