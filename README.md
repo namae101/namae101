@@ -4,10 +4,11 @@
 I'm a passionate developer with a keen interest software development. I enjoy learning new technologies and continuously improving my skills. 
 
 ## Skills
-- **Languages:** Python, JavaScript
-- **Frameworks:** React, 
-- **Tools:** Git, Docker
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** Python, JavaScript, Dart, Go
+- **Frameworks:** NextJs, Flutter
+- **Tools:** Git, Docker, 
+- **Databases:** PostgreSQL, sqlite
+- **Cloud:** DigitalOcean, AWS, Oracle Cloud, CLoudflare
 
 ## Get In Touch
 - **Email:** [me@narong.dev](mailto:me@narong.dev)
